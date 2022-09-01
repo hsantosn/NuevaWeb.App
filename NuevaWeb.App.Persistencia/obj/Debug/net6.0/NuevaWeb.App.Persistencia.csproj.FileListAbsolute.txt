@@ -1,0 +1,15 @@
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.csproj.AssemblyReference.cache
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.AssemblyInfoInputs.cache
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.AssemblyInfo.cs
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\bin\Debug\net6.0\NuevaWeb.App.Persistencia.deps.json
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\bin\Debug\net6.0\NuevaWeb.App.Persistencia.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\bin\Debug\net6.0\NuevaWeb.App.Persistencia.pdb
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\bin\Debug\net6.0\NuevaWeb.App.Dominio.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\bin\Debug\net6.0\NuevaWeb.App.Dominio.pdb
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.csproj.CopyComplete
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\refint\NuevaWeb.App.Persistencia.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\NuevaWeb.App.Persistencia.pdb
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Persistencia\obj\Debug\net6.0\ref\NuevaWeb.App.Persistencia.dll

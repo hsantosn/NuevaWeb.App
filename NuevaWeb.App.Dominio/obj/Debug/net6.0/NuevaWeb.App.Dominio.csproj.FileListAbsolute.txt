@@ -1,0 +1,12 @@
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\bin\Debug\net6.0\NuevaWeb.App.Dominio.deps.json
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\bin\Debug\net6.0\NuevaWeb.App.Dominio.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\bin\Debug\net6.0\NuevaWeb.App.Dominio.pdb
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.csproj.AssemblyReference.cache
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.AssemblyInfoInputs.cache
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.AssemblyInfo.cs
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\refint\NuevaWeb.App.Dominio.dll
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\NuevaWeb.App.Dominio.pdb
+C:\AplicacionWeb\NuevaWeb.App\NuevaWeb.App.Dominio\obj\Debug\net6.0\ref\NuevaWeb.App.Dominio.dll
