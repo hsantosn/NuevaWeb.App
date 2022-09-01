@@ -1,0 +1,15 @@
+﻿@page
+@model NuevaWeb.App.Frontend.Pages.ListModel
+@{
+}
+
+
+<h1>Grupos MisionTic - Ciclo 3 </h1>
+<table class="table">
+    @foreach (var grupos in Model.GruposMision)
+    {
+        <tr>
+            <td>@grupos </td>
+        </tr>        
+    }
+</table>
